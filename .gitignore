@@ -1,5 +1,8 @@
 cmake_language_server/version.py
 
+.venv/
+pyrightconfig.json
+
 /build/
 /dist/
 __pycache__/
